@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Goldfish7718
 - 👀 I’m interested in Coding, Programming, and Coffee☕
-- 🌱 I’m currently learning Full stack Web Development and I'm familiar with HTML5, CSS3 & Bootstrap.
-- 💞️ I’m looking to collaborate on projects which includes Web Designing, Wireframing and Front-End Development.
+- 🌱 I’m currently learning Full stack Web Development and I'm familiar with HTML5, CSS3, Bootstrap, Javascript, React & Node.js.
+- 💞️ I’m looking to collaborate on projects which includes Backend Development, Complex business logic and other Back-End Integration.
 - 📫 Contact: tejasnanoti2@gmail.com
 
 <!---
