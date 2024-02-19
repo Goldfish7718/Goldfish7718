@@ -34,7 +34,7 @@
 
 - [Shelf-mates](https://shelfmates.vercel.app)
 - [Personal PortFolio Website](https://tejasnanoti.vercel.app)
-- [Promptopia](https://promptopia-9qqz.onrender.com)
+- [Branch-prompt](https://branch-prompt.vercel.app)
 
 # Specializations ⚛️
 
