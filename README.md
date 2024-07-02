@@ -32,9 +32,11 @@
 
 # Deployed Projects 🌐
 
-- [Shelf-mates](https://shelfmates.vercel.app)
+
 - [Personal PortFolio Website](https://tejasnanoti.vercel.app)
+- [Shelf-mates](https://shelfmates.vercel.app)
 - [Branch-prompt](https://branch-prompt.vercel.app)
+- [tweetCraft](https://tweetcraft.vercel.app)
 
 # Specializations ⚛️
 
