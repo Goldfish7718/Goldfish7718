@@ -12,12 +12,10 @@
 
 # Languages 💻
 
-- JavaScript
+- JavaScript / TypeScript
 - Python
 - C
 - C++
-- Java
-- TypeScript
 
 # Technologies I work with ⚙️
 
@@ -25,24 +23,25 @@
 - Next.js
 - MongoDB
 - Stripe
-- SciKit-Learn
-- Tensorflow
+- PostgreSQL
+- Express
+- React
 - Vercel
 - Render
 
 # Deployed Projects 🌐
 
-
 - [Personal PortFolio Website](https://tejasnanoti.vercel.app)
 - [Shelf-mates](https://shelfmates.vercel.app)
 - [Branch-prompt](https://branch-prompt.vercel.app)
+- [Stream-scope](https://stream-scope.vercel.app)
 - [tweetCraft](https://tweetcraft.vercel.app)
 
 # Specializations ⚛️
 
 - MERN Stack Web Applications
 - Next.js Serverless Applications
-- Full Stack apps with Flask (Python)
+- Smart contracts with solidity
 
 # Contact 🔗
 
