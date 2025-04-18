@@ -6,14 +6,15 @@
 
 - 👋 Hi, I’m @Goldfish7718
 - 👀 I’m interested in Coding, Programming, and Coffee☕
-- 🌱 I’m a Full stack Web Developer and I'm familiar with HTML5, CSS3, Bootstrap, Javascript, Typescript, Express, React & Node.js.
-- 🤝 I’m looking to collaborate on projects which includes Backend Development, Complex business logic and other Back-End Integration.
+- 🌱 I’m a Full stack Web Developer and I'm specialized with Javascript, Typescript, Express, React & Node.js.
+- 🤝 I’m looking to collaborate on projects which includes Backend Development, Complex business logic and other AI Integration.
 - 📫 Contact: [tejasnanoti2@gmail.com](mailto://tejasnanoti2@gmail.com)
 
 # Languages 💻
 
 - JavaScript / TypeScript
 - Python
+- Go
 - C
 - C++
 
@@ -39,9 +40,9 @@
 
 # Specializations ⚛️
 
-- MERN Stack Web Applications
-- Next.js Serverless Applications
-- Smart contracts with solidity
+- Full Stack Web Applications
+- Next.js full stack Applications
+- AI powered applications (RAG)
 
 # Contact 🔗
 
